@@ -1,5 +1,5 @@
 # *M. Khiari*
-**Computer Engineering · AI · ESPRIT**
+`Computer Engineering · AI · ESPRIT`
 
 > Deep learning pipelines, agentic RAG, multimodal LLMs and VLMs, computer vision. Four NVIDIA DLI certifications.
 
