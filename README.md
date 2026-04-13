@@ -26,15 +26,5 @@
 **SBT** — Modular backend toolkit for AI service orchestration and low-latency inference pipelines.
 ![](https://img.shields.io/badge/Python-E6F1FB?style=flat-square&color=0C447C) ![](https://img.shields.io/badge/FastAPI-E6F1FB?style=flat-square&color=0C447C) ![](https://img.shields.io/badge/MongoDB-E6F1FB?style=flat-square&color=0C447C) ![](https://img.shields.io/badge/Neo4j-E6F1FB?style=flat-square&color=0C447C)
 
----
-
-| NVIDIA DLI | |
-|---|---|
-| Generative AI with Diffusion Models | ![](https://img.shields.io/badge/Feb%202025-D4537E?style=flat-square) |
-| Applications of AI for Anomaly Detection | ![](https://img.shields.io/badge/Jan%202025-7F77DD?style=flat-square) |
-| Fundamentals of Deep Learning | ![](https://img.shields.io/badge/Dec%202024-1D9E75?style=flat-square) |
-| Transformer-Based NLP | ![](https://img.shields.io/badge/Jul%202024-378ADD?style=flat-square) |
-
----
 
 <sub>Open to internship and research · remote-available · ESPRIT · Tunis</sub>
