@@ -1,7 +1,7 @@
 # *M. Khiari*
 ![](https://img.shields.io/badge/Computer%20Engineering-AI%20%C2%B7%20ESPRIT-888?style=flat-square)
 
-> Deep learning pipelines, agentic RAG, multimodal LLMs and VLMs, computer vision. Four NVIDIA DLI certifications.
+> Deep learning pipelines, agentic RAG, multimodal LLMs and VLMs, computer vision.
 
 ---
 
